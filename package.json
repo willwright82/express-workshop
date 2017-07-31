@@ -1,0 +1,13 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "CodeYourFuture/NodeGirls express workshop",
+  "main": "server.js",
+  "repository": "git@github.com:willwright82/express-workshop.git",
+  "author": "Will Wright <will@wright.is>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-formidable": "^1.0.0"
+  }
+}
